@@ -4,6 +4,7 @@ import Footer from "./component/Footer";
 import Hero from "./component/Hero";
 import HireMe from "./component/HireMe";
 import Nav1 from "./component/Nav1";
+import OurService from "./component/OurService";
 import Projects from "./component/Projects";
 import ScrollTop1 from "./component/ScrollTop1";
 import Skills from "./component/Skills";
@@ -15,7 +16,8 @@ function App() {
      <Nav1/>
      <Hero/>
      <About/>
-     <Skills/>
+     <OurService/>
+     {/* <Skills/> */}
      <HireMe/>
      <Projects/>
      <Contact/>

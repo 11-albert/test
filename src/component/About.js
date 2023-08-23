@@ -13,22 +13,34 @@ const About = () => {
     <section id='about' className='py-10 text-white '>
       <div className='text-center mt-8 '>
         <h3 className='text-4xl font-semibold'>
-          About <span className='text-cyan-600'>Me</span>
+          About <span className='text-cyan-600'>{/*Me*/}Us</span>
         </h3>
-        <p className='text-gray-400 my-3 text-lg'>My Introduction</p>
+        <p className='text-gray-400 my-3 text-lg'>{/*My*/} Our Introduction</p>
         <div className='flex md:flex-row flex-col-reverse md:gap-6 gap-12 px-10 max-w-6xl mx-auto items-center'>
           <div className=''>
             <div className='text-gray-300 my-3'>
               <p className='text-start leading-7  mx-auto'>
                 <span className='text-xl font-semibold text-cyan-600'> go beyond to create special experiences..</span>
-                <p className='mb-2'>Hi there! I am a Fullstack Web Developer since the early 2021 I create custom web applications, mobile applications</p>
-                <span className='text-lg text-gray-400'>Website Design and Development</span>
+                <p className='mb-2'>{/*Hi there! I am a Fullstack Web Developer since the early 2021 I create custom web applications, mobile applications*/}Universal Crypto is an Educational and promotional community based in Asian countries. Universal Crypto is full of investors and traders. Our community mainly belongs to Asia China, Indonesia, India, Pakistan, England, Veitnam, Uk, Nigeria .
+
+But due to our sponsors we have members from all over the world.
+
+We'll promote your project by AMA session. We'll pin your announcement for life time after AMA in our main group and announcement channel.
+
+We'll pin your announcement for life time after AMA in our main group and announcement channel..
+
+Good twitter post.
+
+We'll upload a promotional video in our YouTube channel for your project promotion everywhere.
+
+We'lll give you best possible time to hit maximum audience. And one more thing. We also provide recap of AMA and also post on our channel as well if someone miss that can reach out. Three big crypto projects ( H2 FINANCE, Chair finance & medping ) are our sponsors.</p>
+                {/* <span className='text-lg text-gray-400'>Website Design and Development</span>
                 <p className='mb-2'>To build user friendly and mobile first website We have full dedicated team in Karachi
                 to grow your online business and get full control over the look and content of your website.</p>
                 <span className='text-lg text-gray-400'>Design the interface that works for any device</span>
                 <p>Responsive Web design is the approach that make the website design respond to the user environment based on screen size, and I do,
                 My website are built responsive to all browsers and devices,</p>
-                <p> My clients love working with me because I am reliable, knowledgable, faster, friendly and easy to communicate with..</p>
+                <p> My clients love working with me because I am reliable, knowledgable, faster, friendly and easy to communicate with..</p> */}
               </p>
               <div className='flex mt-10 md:justify-start justify-center items-center gap-7'>
                 {

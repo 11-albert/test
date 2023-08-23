@@ -19,13 +19,13 @@ const Hero = () => {
         <div className='md:text-left text-center'>
           <h1 className='md:text-5xl text-2xl md:leading-normal leading-10 text-white font-bold'>
             <span className='text-cyan-600 md:text-6xl text-5xl'>
-              Hello!
+              {/* Hello! */}Universal Crypto
               <br />
             </span>
-            My name is <span>Ali Raza</span> 
+            {/* My name is */} Is An Educational And <span>{/*Ali Raza*/}Promtional Community</span>  
           </h1>
           <h4 className='md:text-2xl text-lg md:leading-normal leading-10 mt-2 font-bold text-gray-600'>
-            Fullstack Developer
+            {/* Fullstack Developer */}We'll promote your project by AMA session. Our complete process is channel post.
           </h4>
           <a href='#contact'>
             <button className='btn-primary mt-4'>Contact Me</button>

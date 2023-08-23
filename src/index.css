@@ -11,6 +11,9 @@ body {
 .btn-primary{
   @apply bg-cyan-600 font-semibold text-white md:mx-0 mx-auto rounded-full py-3 px-6 flex items-center gap-2
 }
+.btn-service{
+  @apply bg-cyan-600 font-semibold lg:text-sm text-white md:mx-0 mx-auto  rounded-sm py-3 px-6 flex items-center gap-2 cursor-pointer
+}
 .aboutImage::after{
   @apply content-[''] w-full left-0 top-0 rounded-xl rotate-12 h-full absolute bg-gray-600 -z-10
 }
